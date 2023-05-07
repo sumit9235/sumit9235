@@ -4,9 +4,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-SumitYadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumit-yadav-3200b9244/)](https://www.linkedin.com/in/sumit-yadav-3200b9244/)
 
-
-
-
 I'm
 Full Stack Solution Architect.
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), back-end development ( HTML5, CSS3, Javascript, Responsive, Node.js),database(MongoDB,Redis).
